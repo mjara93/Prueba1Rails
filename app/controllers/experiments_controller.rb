@@ -1,4 +1,5 @@
 class ExperimentsController < ApplicationController
+  layout "bootstrap", :only => [:page2]
   def page1
   end
 
