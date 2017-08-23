@@ -12,9 +12,24 @@ body{
   height: 100vh;
 }
 
-h1{
+h1.batih1 {
   margin: 0 0 0 50px;
   padding-top: 200px;
+  font-size: 80px;
+  color: white;
+  text-shadow: 0 0 2px;
+
+}
+
+.Superman {
+  background: image-url("Superman.jpg") no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+h1.kriptonita {
+  margin: 0 0 0 50px;
+  padding-top: 60vh;
   font-size: 80px;
   color: white;
   text-shadow: 0 0 2px;
