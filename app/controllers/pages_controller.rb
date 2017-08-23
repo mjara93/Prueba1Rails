@@ -7,4 +7,10 @@ class PagesController < ApplicationController
 
   def superman
   end
+
+  def save_batman
+  end
+
+  def save_superman
+  end
 end

@@ -27,7 +27,7 @@ h1.batih1 {
   height: 100vh;
 }
 
-h1.kriptonita {
+p.kriptonita {
   margin: 0 0 0 50px;
   padding-top: 60vh;
   font-size: 80px;
@@ -57,4 +57,18 @@ a.batimitad {
   height: 100vh;
   width: 50%;
   float: right;
+}
+
+div.arriba {
+  position: fixed;
+  margin-top: 60vh;
+  margin-left: 5%;
+  width: 40%;
+}
+
+div.delado {
+  position: fixed;
+  margin-top: 60vh;
+  margin-left: 55%;
+  width: 40%;
 }
