@@ -1,3 +1,22 @@
 // Place all the styles related to the pages controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+body{
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.IamBatman {
+  background: image-url("Batman.jpg") no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+h1{
+  margin: 0 0 0 50px;
+  padding-top: 200px;
+  font-size: 80px;
+  color: white;
+  text-shadow: 0 0 2px;
+
+}
